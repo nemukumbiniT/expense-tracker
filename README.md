@@ -1,2 +1,13 @@
-# expense-tracker
-Full-stack expense tracker built with React, Node.js, and PostgreSQL. Users can register, log in, and manage income and expenses with full CRUD functionality. Features include categorized transactions, financial analytics dashboards, and secure JWT authentication. Deployed with a clean, production-ready architecture.
+# Expense Tracker
+
+Fullstack web app to track income and expenses with analytics.
+
+## Tech Stack
+- React
+- Node.js
+- PostgreSQL
+
+## Features (WIP)
+- [ ] Authentication
+- [ ] Transactions
+- [ ] Dashboard
